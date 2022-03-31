@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.markbackend.dao.ClazzDao">
+    <select id="findAll" resultType="com.markbackend.pojo.Clazz">
+        select * from C
+    </select>
+
+
+    <select id="findClazzByCno" parameterType="java.lang.String"
+            resultType="com.markbackend.pojo.ClassRecord">
+        SELECT a.cno cno, a.sname sname, c.cno clcno,c.cname cname
+             ,c.credit credit,c.cdept cdept,c.tname tname,b.grade grade
+        from (S a left join SC b on a.cno = b.sno)  left join C c on c.cno = b.cno
+        where a.cno = #{cno}
+    </select>
+
+    <delete id="removeClazzByCno" parameterType="java.lang.String">
+        delete from C
+        where C.cno = #{cno}
+    </delete>
+
+    <update id="updateClazzByCno" parameterType="com.markbackend.pojo.Clazz">
+        update student.C
+        set cno = #{cno},
+            cname = #{cname},
+            credit = #{credit},
+            tname = #{tname}
+        where cno = #{cno}
+    </update>
+
+    <insert id="addClazz" parameterType="com.markbackend.pojo.Student">
+        insert into C
+            (cno,cname,credit,cdept,tname)
+        values
+            (#{cno},#{cname},#{credit},#{cdept},#{tname})
+    </insert>
+
+    <select id="findClazzChoosable" parameterType="java.lang.String" resultType="com.markbackend.pojo.Clazz">
+
+        select * from C
+        where C.cno not in (
+            select SC.cno from SC
+            where sno = #{sno})
+
+    </select>
+</mapper>

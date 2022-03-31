@@ -1,0 +1,153 @@
+2022-02-22 00:57:16.806  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m25s319ms).
+2022-02-22 02:36:54.740  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h39m37s938ms).
+2022-02-22 03:59:19.663  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h22m24s922ms).
+2022-02-22 05:40:39.611  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h41m19s949ms).
+2022-02-22 06:23:38.305  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=42m58s694ms).
+2022-02-22 07:43:36.788  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h19m58s481ms).
+2022-02-22 09:22:05.371  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h38m28s584ms).
+2022-02-22 10:49:52.462  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h27m47s92ms).
+2022-02-22 11:11:06.626  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=21m14s164ms).
+2022-02-22 11:28:32.459  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m25s833ms).
+2022-02-22 11:55:33.189  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=27m730ms).
+2022-02-22 12:35:00.085  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m56s872ms).
+2022-02-22 12:53:08.191  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m38s94ms).
+2022-02-22 12:54:57.703  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m49s511ms).
+2022-02-22 14:04:26.022  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m58s17ms).
+2022-02-22 14:51:22.913  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m21s423ms).
+2022-02-22 14:53:31.312  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m8s398ms).
+2022-02-22 15:00:56.190  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m24s860ms).
+2022-02-22 15:22:08.109  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m41s847ms).
+2022-02-22 16:35:22.511  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m44s138ms).
+2022-02-22 16:37:56.183  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m3s670ms).
+2022-02-22 17:07:33.468  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m37s285ms).
+2022-02-22 17:36:51.620  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m48s107ms).
+2022-02-22 17:43:06.654  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m15s1ms).
+2022-02-22 17:45:49.430  WARN 29947 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m42s761ms).
+2022-02-22 18:03:56.300  INFO 39803 --- [restartedMain] com.markbackend.MarkBackendApplication   : Starting MarkBackendApplication using Java 1.8.0_292 on MacdeMacBook-Air.local with PID 39803 (/Users/meritbox/Desktop/coding/nettyproject/mark-backend/target/classes started by mac in /Users/meritbox/Desktop/coding/nettyproject/mark-backend)
+2022-02-22 18:03:56.300  INFO 39803 --- [restartedMain] com.markbackend.MarkBackendApplication   : No active profile set, falling back to default profiles: default
+2022-02-22 18:03:56.350  INFO 39803 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-02-22 18:03:56.351  INFO 39803 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-02-22 18:03:57.003  INFO 39803 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9000 (http)
+2022-02-22 18:03:57.007  INFO 39803 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-22 18:03:57.007  INFO 39803 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.54]
+2022-02-22 18:03:57.033  INFO 39803 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-22 18:03:57.033  INFO 39803 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 682 ms
+2022-02-22 18:03:57.391  WARN 39803 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-02-22 18:03:57.408  WARN 39803 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 9000 is already in use
+2022-02-22 18:03:57.410  INFO 39803 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-02-22 18:03:57.416  INFO 39803 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-02-22 18:03:57.425 ERROR 39803 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9000 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9000 or configure this application to listen on another port.
+
+2022-02-22 18:05:20.615  INFO 39919 --- [restartedMain] com.markbackend.MarkBackendApplication   : Starting MarkBackendApplication using Java 1.8.0_292 on MacdeMacBook-Air.local with PID 39919 (/Users/meritbox/Desktop/coding/nettyproject/mark-backend/target/classes started by mac in /Users/meritbox/Desktop/coding/nettyproject/mark-backend)
+2022-02-22 18:05:20.615  INFO 39919 --- [restartedMain] com.markbackend.MarkBackendApplication   : No active profile set, falling back to default profiles: default
+2022-02-22 18:05:20.657  INFO 39919 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-02-22 18:05:20.657  INFO 39919 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-02-22 18:05:21.190  INFO 39919 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9000 (http)
+2022-02-22 18:05:21.194  INFO 39919 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-22 18:05:21.194  INFO 39919 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.54]
+2022-02-22 18:05:21.215  INFO 39919 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-22 18:05:21.215  INFO 39919 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 558 ms
+2022-02-22 18:05:21.538  WARN 39919 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-02-22 18:05:21.560  WARN 39919 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 9000 is already in use
+2022-02-22 18:05:21.563  INFO 39919 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-02-22 18:05:21.568  INFO 39919 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-02-22 18:05:21.576 ERROR 39919 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9000 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9000 or configure this application to listen on another port.
+
+2022-02-22 18:05:52.611  INFO 39975 --- [restartedMain] com.markbackend.MarkBackendApplication   : Starting MarkBackendApplication using Java 1.8.0_292 on MacdeMacBook-Air.local with PID 39975 (/Users/meritbox/Desktop/coding/nettyproject/mark-backend/target/classes started by mac in /Users/meritbox/Desktop/coding/nettyproject/mark-backend)
+2022-02-22 18:05:52.613  INFO 39975 --- [restartedMain] com.markbackend.MarkBackendApplication   : No active profile set, falling back to default profiles: default
+2022-02-22 18:05:52.656  INFO 39975 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-02-22 18:05:52.657  INFO 39975 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-02-22 18:05:53.186  INFO 39975 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9000 (http)
+2022-02-22 18:05:53.190  INFO 39975 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-22 18:05:53.190  INFO 39975 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.54]
+2022-02-22 18:05:53.212  INFO 39975 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-22 18:05:53.212  INFO 39975 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 555 ms
+2022-02-22 18:05:53.512  INFO 39975 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-22 18:05:53.532  INFO 39975 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9000 (http) with context path ''
+2022-02-22 18:05:53.538  INFO 39975 --- [restartedMain] com.markbackend.MarkBackendApplication   : Started MarkBackendApplication in 1.213 seconds (JVM running for 1.768)
+2022-02-22 18:06:29.681  INFO 39975 --- [http-nio-9000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-22 18:06:29.682  INFO 39975 --- [http-nio-9000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-02-22 18:06:29.691  INFO 39975 --- [http-nio-9000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms
+2022-02-22 18:06:57.982  INFO 39975 --- [http-nio-9000-exec-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-02-22 18:06:58.258  INFO 39975 --- [http-nio-9000-exec-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-02-22 18:41:53.809  WARN 39975 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m55s74ms).
+2022-02-22 18:52:57.594  WARN 39975 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m3s713ms).
+2022-02-22 18:55:48.835  WARN 39975 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m51s246ms).
+2022-02-22 19:21:53.336  WARN 39975 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=26m4s490ms).
+2022-02-22 20:27:48.575  WARN 39975 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54s862ms).
+2022-02-22 20:52:32.166  INFO 40950 --- [restartedMain] com.markbackend.MarkBackendApplication   : Starting MarkBackendApplication using Java 1.8.0_292 on MacdeAir with PID 40950 (/Users/meritbox/Desktop/coding/nettyproject/mark-backend/target/classes started by mac in /Users/meritbox/Desktop/coding/nettyproject/mark-backend)
+2022-02-22 20:52:32.167  INFO 40950 --- [restartedMain] com.markbackend.MarkBackendApplication   : No active profile set, falling back to default profiles: default
+2022-02-22 20:52:32.210  INFO 40950 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-02-22 20:52:32.210  INFO 40950 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-02-22 20:52:32.873  INFO 40950 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9000 (http)
+2022-02-22 20:52:32.877  INFO 40950 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-22 20:52:32.877  INFO 40950 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.54]
+2022-02-22 20:52:32.900  INFO 40950 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-22 20:52:32.900  INFO 40950 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 689 ms
+2022-02-22 20:52:33.252  WARN 40950 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-02-22 20:52:33.268  WARN 40950 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 9000 is already in use
+2022-02-22 20:52:33.270  INFO 40950 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-02-22 20:52:33.275  INFO 40950 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-02-22 20:52:33.283 ERROR 40950 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9000 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9000 or configure this application to listen on another port.
+
+2022-02-22 20:53:29.917  INFO 41005 --- [restartedMain] com.markbackend.MarkBackendApplication   : Starting MarkBackendApplication using Java 1.8.0_292 on MacdeAir with PID 41005 (/Users/meritbox/Desktop/coding/nettyproject/mark-backend/target/classes started by mac in /Users/meritbox/Desktop/coding/nettyproject/mark-backend)
+2022-02-22 20:53:29.918  INFO 41005 --- [restartedMain] com.markbackend.MarkBackendApplication   : No active profile set, falling back to default profiles: default
+2022-02-22 20:53:29.947  INFO 41005 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-02-22 20:53:29.947  INFO 41005 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-02-22 20:53:30.404  INFO 41005 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9000 (http)
+2022-02-22 20:53:30.408  INFO 41005 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-22 20:53:30.408  INFO 41005 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.54]
+2022-02-22 20:53:30.429  INFO 41005 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-22 20:53:30.429  INFO 41005 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 482 ms
+2022-02-22 20:53:30.763  INFO 41005 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-22 20:53:30.783  INFO 41005 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9000 (http) with context path ''
+2022-02-22 20:53:30.789  INFO 41005 --- [restartedMain] com.markbackend.MarkBackendApplication   : Started MarkBackendApplication in 1.172 seconds (JVM running for 1.728)
+2022-02-22 20:54:34.354  INFO 41005 --- [http-nio-9000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-22 20:54:34.354  INFO 41005 --- [http-nio-9000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-02-22 20:54:34.357  INFO 41005 --- [http-nio-9000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-02-22 20:54:34.425  INFO 41005 --- [http-nio-9000-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-02-22 20:54:34.667  INFO 41005 --- [http-nio-9000-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-02-22 21:10:36.690  INFO 41005 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-02-22 21:10:36.696  INFO 41005 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

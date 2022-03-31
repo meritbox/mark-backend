@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.markbackend.dao.StudentDao" >
+    <select id="findAll" resultType="com.markbackend.pojo.Student">
+        select * from S
+    </select>
+    <delete id="removeStudentByCno" parameterType="java.lang.String">
+        delete from student.S where S.cno = #{cno}
+    </delete>
+
+    <update id="updateStudentByCno" parameterType="com.markbackend.pojo.Student">
+        update student.S
+        set sname = #{sname},
+            sex = #{sex},
+            age = #{age},
+            sdept = #{sdept}
+        where cno = #{cno}
+    </update>
+
+    <select id="login" resultType="com.markbackend.pojo.Student">
+        select * from S
+        where logn = #{logn}
+    </select>
+
+    <insert id="addStudent" parameterType="com.markbackend.pojo.Student">
+        insert into S
+        (cno,sname,sex,age,sdept,logn,pswd)
+        values
+        (#{cno},#{sname},#{sex},#{age},#{sdept},#{logn},#{pswd})
+
+    </insert>
+    <select id="findGradebyCno" parameterType="java.lang.String" resultType="com.markbackend.pojo.StudentGrade" >
+        select * from SC
+        where sno = #{cno}
+    </select>
+    <insert id="addStudentgrade" parameterType="com.markbackend.pojo.StudentGrade">
+        insert into SC
+            (sno,cno,grade)
+        values
+            (#{sno},#{cno},#{grade})
+
+    </insert>
+    <delete id="removeStudentGrade" parameterType="com.markbackend.pojo.StudentGrade">
+        delete from SC
+        where sno = #{sno} and cno = #{cno}
+    </delete>
+    <select id="findGradebyClass" parameterType="java.lang.String" resultType="com.markbackend.pojo.StudentGrade">
+        select * from SC
+        where cno = #{cno}
+    </select>
+    <select id="findAvgMark" resultType="com.markbackend.pojo.ClazzAvg">
+        select cno , AVG(grade) aveg from SC
+        where grade >= 0
+        group by cno
+        order by cno asc
+    </select>
+</mapper>
