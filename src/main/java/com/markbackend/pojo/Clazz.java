@@ -8,6 +8,8 @@ public class Clazz {
     private String cname;
     private Integer credit;
     private String cdept;
-    private String tname;
-
+    private String tno;
+    private Integer day;
+    private Integer time;
+    private double rate;
 }

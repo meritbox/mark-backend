@@ -7,4 +7,6 @@ public class StudentGrade {
     String sno;
     String cno;
     int grade;
+    int testgrade;
+    int usualgrade;
 }
